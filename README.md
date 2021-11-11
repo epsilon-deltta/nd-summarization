@@ -12,17 +12,16 @@
 <img src="http://img.shields.io/badge/codestyle-PEP--8-informational"> 
 </a> -->
     
-### BASE
 
-- BERT (Bidirectional Encoder Representation from Transformer)
-- GPT 
-- BART
-    - Pretraining methodology
-    - Fine-tuning methodology for text summarization
-
-### Summarization of Science article
+### Goal: Summarization of Science article using fine-tuned BART over diverse attentions
 
 - Modified BART
 - Datasets
 - Evaluation 
 - Experiments and analysis
+
+#### base concepts
+
+- BERT (Bidirectional Encoder Representation from Transformer)
+- GPT 
+- BART
